@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+I am a Junior .NET developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pikp112&theme=dark&show_icons=true)
 
