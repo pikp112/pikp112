@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pikp112&theme=dark&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pikp112)](https://github.com/ryo-ma/github-profile-trophy)
