@@ -12,6 +12,7 @@
 I am a Junior .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.<br><br>🔭 I’m contributing to frontend and backend for building web applications.<br><br>🌱 Exploring Technical Content Writing.<br><br>⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 # 💻 Tech Stack:
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -35,6 +36,7 @@ I am a Junior .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+ </div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pikp112&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pikp112&theme=vue-dark&hide_border=false)<br/>
