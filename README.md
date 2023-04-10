@@ -35,8 +35,8 @@ I am a Junior .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pikp112&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pikp112&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=pikp112&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=pikp112&theme=vue-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pikp112&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
