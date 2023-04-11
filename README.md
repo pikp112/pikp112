@@ -55,14 +55,11 @@ I am a Junior .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pikp112&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pikp112&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 [![trophy](https://github-profile-trophy.vercel.app/?username=nuyonu&theme=onedark&margin-w=5&margin-h=5&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pikp112&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 
