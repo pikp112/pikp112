@@ -13,7 +13,6 @@ I am a Junior .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 # 💻 Tech Stack:
 
-<div align="center">
 
 ### Now i'm working with:
 
@@ -33,13 +32,7 @@ I am a Junior .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 [<img width="50" height="50" src="./assets/images/azuredevops.png">][linkedin]
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-
-</div>
-
 ---
-
-<div align="center">
-
 ### Small knowledge about:
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp; 
 [<img width="50" height="50" src="./assets/images/js.png">][linkedin]
@@ -54,7 +47,6 @@ I am a Junior .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 	
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pikp112&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
