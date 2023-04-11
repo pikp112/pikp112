@@ -13,7 +13,7 @@ I am a Junior .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 # 💻 Tech Stack:
 
-<h3 align="left">🛠 Now i'm working with: </h3>
+<h3 align="center">🛠 Now i'm working with: </h3>
 
 ###
 
@@ -35,11 +35,8 @@ I am a Junior .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ###
 
-
-
 ---
 ### Small knowledge about:
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
