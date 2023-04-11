@@ -36,7 +36,7 @@ I am a Junior .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 ###
 
 ---
-### Small knowledge about:
+<h3 align="center">Small knowledge about: </h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
