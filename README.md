@@ -11,6 +11,7 @@
 # 💫 About Me:
 I am a Junior .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.<br><br>🔭 I’m contributing to frontend and backend for building web applications.<br><br>🌱 I’m currently learning everything that is new about .NET Ecosystem and .NET 6/7😊<br><br>👯 I’m looking to collaborate on .NET projects. <br><br>⚡ In my free time, I solve problems on GeeksforGeeks,HackerRank,CodinGame and read tech articles. I like dogs.:dog:	
 
+# Stats:
 <div align="center">
 
 ### Now i'm working with:
